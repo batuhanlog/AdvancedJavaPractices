@@ -1,3 +1,1 @@
-# PatikaPlus
-Ödevler
-Projelerimm
+Java advanced practices and assignments, including Spring Boot
